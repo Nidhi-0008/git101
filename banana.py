@@ -1,1 +1,1 @@
-print("I eat Fruits")
+print("I eat Fruits and vegetables")
