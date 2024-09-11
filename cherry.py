@@ -1,1 +1,1 @@
-print("i eat fruits everyday")
+print("i eat fruits every single day")
