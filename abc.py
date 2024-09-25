@@ -1,1 +1,1 @@
-print("we are just testing push")
+print("we are just testing the push")
